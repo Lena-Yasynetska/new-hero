@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#Ignore temporery files
+*.tmp
+
 # Log file
 *.log
 
